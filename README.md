@@ -33,4 +33,4 @@ P.S. Для удобства проверки разных массивов в �
 
 Код программы:
 
-![code](https://github.com/FoxyGirlAgni/FinalTask/blob/master/Program.cs)
+[code](https://github.com/FoxyGirlAgni/FinalTask/blob/master/Program.cs)
